@@ -1,0 +1,5 @@
+mode
+white
+night
+goodbye
+sell
